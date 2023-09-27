@@ -1,1 +1,17 @@
-{}
+{
+    "demo01": {
+        "projectName": "demo01",
+        "description": "jans test",
+        "type": "community",
+        "author": "himalayagupta",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/himalayagupta/agama_demo",
+        "githubUri": "https://github.com/himalayagupta/agama_demo",
+        "license": "MIT",
+        "lastUpdated": "1695776799621",
+        "tags": [
+            "jans"
+        ],
+        "noDirectLaunch": []
+    }
+}
